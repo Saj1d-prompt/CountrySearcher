@@ -1,0 +1,21 @@
+footer {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
+
+#displayMore{
+    background-color: #edf5e1;
+    max-width: 800px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+
+#displayCountry{
+    background-color: #edf5e1;
+    max-width: 800px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
